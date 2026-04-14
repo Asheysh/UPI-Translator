@@ -46,7 +46,7 @@ In India, millions of people are comfortable speaking Hindi/Hinglish but struggl
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/speak-pay-swift.git
+   git clone https://github.com/Asheysh/UPI-Translator.git
    cd speak-pay-swift
    ```
 
